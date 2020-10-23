@@ -16,11 +16,11 @@
 <br />
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#6](https://github.com/gastbob40/InfinityNews/issues/6) in [gastbob40/InfinityNews](https://github.com/gastbob40/InfinityNews)
-2. ❗️ Opened issue [#6](https://github.com/gastbob40/InfinityNews/issues/6) in [gastbob40/InfinityNews](https://github.com/gastbob40/InfinityNews)
-3. ❗️ Closed issue [#2](https://github.com/gastbob40/InfinityNews/issues/2) in [gastbob40/InfinityNews](https://github.com/gastbob40/InfinityNews)
-4. ❗️ Closed issue [#1](https://github.com/gastbob40/InfinityNews/issues/1) in [gastbob40/InfinityNews](https://github.com/gastbob40/InfinityNews)
-5. 🗣 Commented on [#1](https://github.com/gastbob40/InfinityNews/issues/1) in [gastbob40/InfinityNews](https://github.com/gastbob40/InfinityNews)
+1. 🗣 Commented on [#8](https://github.com/gastbob40/InfinityChronosIssues/issues/8) in [gastbob40/InfinityChronosIssues](https://github.com/gastbob40/InfinityChronosIssues)
+2. ❗️ Closed issue [#6](https://github.com/gastbob40/InfinityNews/issues/6) in [gastbob40/InfinityNews](https://github.com/gastbob40/InfinityNews)
+3. ❗️ Opened issue [#6](https://github.com/gastbob40/InfinityNews/issues/6) in [gastbob40/InfinityNews](https://github.com/gastbob40/InfinityNews)
+4. ❗️ Closed issue [#2](https://github.com/gastbob40/InfinityNews/issues/2) in [gastbob40/InfinityNews](https://github.com/gastbob40/InfinityNews)
+5. ❗️ Closed issue [#1](https://github.com/gastbob40/InfinityNews/issues/1) in [gastbob40/InfinityNews](https://github.com/gastbob40/InfinityNews)
 <!--END_SECTION:activity-->
 
 <br />
